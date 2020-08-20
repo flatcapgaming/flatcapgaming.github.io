@@ -2,3 +2,21 @@ img {
   width: 75%;
   height: 30%;
 }
+.flexheader {
+  display: flex;
+}
+
+#topJumbotron {
+  background-color: black;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#leftHeader {
+  margin-left: 5rem;
+  margin-right: 3rem;
+  color: white;
+}
+
+#rightHeader {
+  color: cyan;
+}
