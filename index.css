@@ -9,14 +9,15 @@ img {
 #topJumbotron {
   background-color: black;
   font-family: Impact, Charcoal, sans-serif;
+  color: black;
 }
 
 #leftHeader {
   margin-left: 5rem;
   margin-right: 3rem;
-  color: white;
+  color: black;
 }
 
 #rightHeader {
-  color: cyan;
+  color: black;
 }
